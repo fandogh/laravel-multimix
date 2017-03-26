@@ -13,6 +13,16 @@
 ## 🔥 Getting started
 Since [mix](https://laravel.com/docs/5.4/mix) introduced in laravel 5.4 it is recommended to use this package for laravel >= 5.4 projects only.
 
+Install package:
+
+```bash
+# NPM
+npm install --save-dev laravel-multimix
+
+# YARN
+yarn add --dev laravel-multimix
+```
+
 Open your `package.json` and replace ugly scrips section with this:
 
 ```json
