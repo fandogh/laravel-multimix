@@ -4,7 +4,7 @@
 </a>
 <br>
 <a href="https://www.npmjs.com/package/laravel-multimix">
-    <img alt="" src="https://img.shields.io/npm/v/laravel-multimix?style=flat-square">
+    <img alt="" src="https://img.shields.io/npm/v/laravel-multimix.svg?style=flat-square">
 </a>
 </p>
 
