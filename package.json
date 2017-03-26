@@ -1,0 +1,23 @@
+{
+  "name": "laravel-multimix",
+  "version": "0.0.1",
+  "description": "Laravel-Mix helper for projects with complex & multi assets",
+  "main": "lib/utils.js",
+  "bin": "bin/mix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pi0/laravel-multimix.git"
+  },
+  "author": "Pooya Parsa <pyapar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pi0/laravel-multimix/issues"
+  },
+  "homepage": "https://github.com/pi0/laravel-multimix#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
