@@ -128,7 +128,7 @@ if (MIX_PACKAGE === 'app') {
 ## ☂️Common Issues
 
 **Reload watcher when webpack.mix.js file is udpdated**    
-See #1
+See [#1](https://github.com/fandogh/laravel-multimix/issues/1)
 
 ## 💡 Former & Related projects
 
