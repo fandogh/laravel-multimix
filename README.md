@@ -125,6 +125,11 @@ if (MIX_PACKAGE === 'app') {
 }
 ```
 
+## ☂️Common Issues
+
+**Reload watcher when webpack.mix.js file is udpdated**    
+See #1
+
 ## 💡 Former & Related projects
 
 - [laravel-elixir-packager](https://github.com/pi0/laravel-elixir-packager)
